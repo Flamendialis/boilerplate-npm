@@ -1,6 +1,7 @@
 {
   "author": "Félix J. Menéndez R.",
   "description": "npm freeCodeCamp course challenges",
+  "keywords": ["freecodecamp", "npm", "node", "dev" ],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
